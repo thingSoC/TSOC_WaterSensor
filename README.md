@@ -1,10 +1,12 @@
-# TSOC_WaterSensor - Passive Water Module :
+# TSOC_WaterSensor - Passive Water Sensor Module :
 
 
 The TSOC_WaterSensor is a simple passive water sensor with Grove Connectors, 
 in an Embedded Module format for the new thingSoC, Internet of Things open standard.
-It include a breakout connection for an additional sensor (Temperature/Humidity) or actuator (Relay/Mosfet).
-
+It includes a secondl breakout connector for an additional sensor (Temperature/Humidity) or actuator (Relay/Mosfet).
+It is designed to be used as a basement/sump water detector that engages a pump or alarm when water is present.
+The addiitional connector can be used to add a humidity/temperature sensor (ie. basement too hot or too moist),
+or for a an actuator, like a Relay (to turn on the sump pump when water is detected, etc.).
 
 The TSOC_WaterSensor is a low cost, embeddable module featuring :
 
@@ -26,7 +28,7 @@ These reference designs can serve as starting templates for user designs.
 ## TSOC_WaterSensor Instructions
 
 The TSOC_WaterSensor can use either digital or analog inputs for water detection.
-The additional breakout connector can be used an additional sensor (Temperature/Humidity) or actuator (Relay/Mosfet).
+The additional breakout connector can be used for an additional sensor (Temperature/Humidity) or actuator (Relay/Mosfet).
 
 ---------------------------------------
 
