@@ -15,7 +15,7 @@ The TSOC_WaterSensor is a low cost, embeddable module featuring :
 * [Mikrobus Compatible Module](http://www.mikroe.com/mikrobus/) 
 
 
-[![thingSoC TSOC_WaterSensor](https://raw.githubusercontent.com/thingSoC/TSOC_WaterSensor/master/TSOC_WaterSensor/images/TSOC_WaterSensor_model.png?raw=true)TSOC_WaterSensor](https://github.com/thingSoC/TSOC_WaterSensor)
+[![thingSoC TSOC_WaterSensor](https://raw.githubusercontent.com/thingSoC/TSOC_WaterSensor/master/TSOC_WaterSensor/images/product/TSOC_WaterSensor.png?raw=true)TSOC_WaterSensor](https://github.com/thingSoC/TSOC_WaterSensor)
 
 **thingSoC Reference Designs** are example thingSoC implementations that implement
 various reference and testing circuits for demonstrating the use of the thingSoC libraries.
